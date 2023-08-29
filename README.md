@@ -36,8 +36,5 @@ Enter your desired CGPA: 3.75
 
 You need a required SGPA of 3.97 to achieve your desired CGPA.
 
-## License
-
-This program is licensed under the MIT License.
 
 
